@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+networkx
+tree-sitter
+tree-sitter-java
+sentence-transformers
+faiss-cpu
+scikit-learn
+python-multipart
+numpy
+python-louvain
